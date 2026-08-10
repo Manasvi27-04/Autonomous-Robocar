@@ -1,0 +1,15 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+build/
+.pio/
+.pioenvs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
